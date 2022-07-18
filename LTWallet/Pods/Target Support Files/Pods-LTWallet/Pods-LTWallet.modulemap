@@ -1,0 +1,6 @@
+framework module Pods_LTWallet {
+  umbrella header "Pods-LTWallet-umbrella.h"
+
+  export *
+  module * { export * }
+}
